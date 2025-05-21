@@ -1,0 +1,2 @@
+# git-friend
+friend sharing 
